@@ -43,7 +43,7 @@ Demo note: ad timers run 10x faster (`DEMO_SPEED` in `WatchAds.jsx`).
 Add screenshots here.
 
 ## Live Demo
-Add your Vercel/Netlify link here.
+[View Live Website](https://v-eloop-watch-ads-pd1i.vercel.app/)
 
 ## Author
-Akash M - Python Full Stack Developer, Chennai
+Akash M - Frontend Developer, Chennai
