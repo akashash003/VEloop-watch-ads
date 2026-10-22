@@ -1,0 +1,15 @@
+/* Global design tokens - dark fintech theme */
+:root {
+  --bg: #0b0b14;
+  --surface: #14141f;
+  --surface-2: #1c1c2b;
+  --border: rgba(255, 255, 255, 0.08);
+  --text: #f3f3f8;
+  --text-muted: #9a9ab0;
+  --primary: #7c5cff;
+  --primary-soft: rgba(124, 92, 255, 0.15);
+  --gold: #ffb53d;
+  --success: #34d399;
+  --radius: 16px;
+  --glow: 0 0 24px rgba(124, 92, 255, 0.35);
+}
