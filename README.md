@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VELOOP Rewards - Watch Ads Page
 
 ## Project Overview
@@ -50,3 +51,6 @@ Add your Vercel/Netlify link here.
 
 ## Author
 Akash M - Python Full Stack Developer, Chennai
+=======
+# VEloop-watch-ads
+>>>>>>> a606d4c46258c69d71fddba8d90e823ab7af2211
